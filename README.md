@@ -2,7 +2,7 @@
 
 Atualmente estou cursando Ciência da Computação na UNESP de São José do Rio Preto.
 
-Estudos atuais:
+## Estudos atuais:
 - Linguagem C
 - Java 
 - Banco de Dados
@@ -19,10 +19,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-origina
   
 
 ## Atividade
-<div style="display: inline_block"><br>
-  <a href="https://github.com/anatakehara">
-</div>
-
 
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anatakehara&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anatakehara&layout=compact&langs_count=7&theme=dark"/>
 
